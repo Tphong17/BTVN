@@ -47,3 +47,4 @@ int main() {
     MergeSort(arr, N);
     return 0;
 }
+//T(n) = O(nlogn)
